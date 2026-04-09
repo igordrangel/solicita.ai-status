@@ -10,7 +10,7 @@ sites:
   - name: Site
     url: https://solicita-ai.com
   - name: Dashboard
-    url: https://dashboard.solicita-ai.com/favicon.ico
+    url: https://dashboard.solicita-ai.com
     port: 80
     check: "tcp-ping"
     ipv6: true
