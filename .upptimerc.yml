@@ -11,11 +11,6 @@ sites:
     url: https://solicita-ai.com
   - name: Dashboard
     url: https://dashboard.solicita-ai.com
-    method: GET
-    expectStatus: 200
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
