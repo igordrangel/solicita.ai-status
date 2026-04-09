@@ -20,7 +20,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: solicita-ai.com
   baseUrl: /solicita.ai-status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://dashboard.solicita-ai.com/assets/branding/logotype.png
   name: Solicita.ai
   introTitle: "**Solicita.ai** é uma plataforma de atendimento com uso de IA."
   introMessage: Esta é uma página de monitoramento em tempo real dos serviços da plataforma
