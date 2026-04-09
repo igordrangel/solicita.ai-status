@@ -1,22 +1,22 @@
 [
   {
-    "name": "Serviço básico",
+    "name": "API",
     "url": "https://api.solicita-ai.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.solicita-ai.com.ico",
-    "slug": "servico-basico",
+    "slug": "api",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "6.49%",
+    "uptimeDay": "6.49%",
+    "uptimeWeek": "6.49%",
+    "uptimeMonth": "6.49%",
+    "uptimeYear": "6.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 43
+      "2026-04-09": 0
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 1840,
-    "timeWeek": 1840,
-    "timeMonth": 1840,
-    "timeYear": 1840,
+    "time": 1712,
+    "timeDay": 1712,
+    "timeWeek": 1712,
+    "timeMonth": 1712,
+    "timeYear": 1712,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 43
+      "2026-04-09": 53
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 43
+      "2026-04-09": 53
     }
   }
 ]
