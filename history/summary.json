@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 11
+      "2026-04-09": 17
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1304,
-    "timeDay": 1304,
-    "timeWeek": 1304,
-    "timeMonth": 1304,
-    "timeYear": 1304,
+    "time": 1229,
+    "timeDay": 1229,
+    "timeWeek": 1229,
+    "timeMonth": 1229,
+    "timeYear": 1229,
     "dailyMinutesDown": {}
   },
   {
@@ -54,12 +54,12 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 64
+      "2026-04-09": 70
     }
   },
   {
     "name": "Dashboard",
-    "url": "https://dashboard.solicita-ai.com/favicon.ico",
+    "url": "https://dashboard.solicita-ai.com",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.solicita-ai.com.ico",
     "slug": "dashboard",
     "status": "down",
@@ -74,7 +74,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 64
+      "2026-04-09": 70
     }
   }
 ]
