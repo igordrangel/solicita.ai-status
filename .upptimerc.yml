@@ -21,7 +21,7 @@ status-website:
   cname: status.solicita-ai.com
   # baseUrl: /solicita.ai-status
   logoUrl: https://dashboard.solicita-ai.com/assets/branding/logotype.png
-  name: Solicita.ai
+  # name: Solicita.ai
   introTitle: "**Solicita.ai** é uma plataforma de atendimento com uso de IA."
   introMessage: Esta é uma página de monitoramento em tempo real dos serviços da plataforma
   navbar:
