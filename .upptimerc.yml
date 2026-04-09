@@ -18,7 +18,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: solicita-ai.com
+  cname: status.solicita-ai.com
   # baseUrl: /solicita.ai-status
   logoUrl: https://dashboard.solicita-ai.com/assets/branding/logotype.png
   name: Solicita.ai
