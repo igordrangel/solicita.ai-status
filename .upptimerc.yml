@@ -11,6 +11,8 @@ sites:
     url: https://solicita-ai.com
   - name: Dashboard
     url: https://dashboard.solicita-ai.com
+    headers:
+      "User-Agent": "Mozilla/5.0 (Upptime)"
     port: 80
     check: "tcp-ping"
     ipv6: true
