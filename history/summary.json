@@ -4,18 +4,19 @@
     "url": "https://api.solicita-ai.com/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.solicita-ai.com.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "97.15%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "97.15%",
+    "status": "down",
+    "uptime": "97.91%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
     "time": 10202,
-    "timeDay": 10202,
+    "timeDay": 13492,
     "timeWeek": 10202,
     "timeMonth": 10202,
     "timeYear": 10202,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-04-10": 47
     }
   },
@@ -54,7 +55,7 @@
     "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-04-11": 39,
+      "2026-04-11": 656,
       "2026-04-10": 1440,
       "2026-04-09": 221
     }
