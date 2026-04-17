@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 15825,
-    "timeDay": 16970,
+    "timeDay": 15249,
     "timeWeek": 16529,
     "timeMonth": 15825,
     "timeYear": 15825,
@@ -22,7 +22,7 @@
     "url": "https://igordrangel--solicita-ai-modal-api-fastapi-app.modal.run/health",
     "icon": "https://icons.duckduckgo.com/ip3/igordrangel--solicita-ai-modal-api-fastapi-app.modal.run.ico",
     "slug": "servico-de-ia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 9436,
     "timeMonth": 4682,
     "timeYear": 4682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-17": 0
+    }
   },
   {
     "name": "Site",
